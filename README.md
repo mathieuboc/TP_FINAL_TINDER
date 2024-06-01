@@ -5,3 +5,4 @@ Pour lancer notre projet, il faut avoir installer Node.js (voir Readme dans le d
 pip install -r requirements.txt
 ```
 
+![Texte alternatif](visuel_application.jpeg)
